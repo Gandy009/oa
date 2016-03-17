@@ -4,3 +4,4 @@ ccccccccccccc
 ddddddddddddd
 select * from a.txt
 delete b from book
+delete i from book
