@@ -3,3 +3,4 @@ bbbbbbbbbbbbb
 ccccccccccccc
 ddddddddddddd
 select * from a.txt
+delete i from book
