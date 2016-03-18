@@ -12,4 +12,6 @@ create a bug 01
 create a bug 02
 create a bug 03
 create a bug 04
+create a bug 05 
+create a bug 06
 
