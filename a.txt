@@ -7,3 +7,4 @@ delete b from book
 delete i from book
 select a from 1022
 local new a object
+阿迪你好！
