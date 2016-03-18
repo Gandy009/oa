@@ -8,4 +8,5 @@ delete i from book
 select a from 1022
 local new a object
 update by loudi001
+create a bug 01
 create a bug 02
