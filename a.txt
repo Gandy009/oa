@@ -5,3 +5,4 @@ ddddddddddddd
 select * from a.txt
 delete b from book
 delete i from book
+select a from 1022
