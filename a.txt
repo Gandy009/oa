@@ -10,3 +10,4 @@ local new a object
 update by loudi001
 create a bug 01
 create a bug 02
+create a bug 03
