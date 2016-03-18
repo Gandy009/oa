@@ -9,3 +9,8 @@ select a from 1022
 local new a object
 阿迪你好！
 ----------------
+asdf dsf dsf 
+sdf sd
+sdf
+ds
+ff 
